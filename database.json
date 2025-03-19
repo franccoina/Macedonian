@@ -19,9 +19,9 @@
           "image2": "https://images.pexels.com/photos/8946523/pexels-photo-8946523.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image3": "https://images.pexels.com/photos/20003236/pexels-photo-20003236/free-photo-of-man-eating-fast-food.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image4": "https://images.pexels.com/photos/16962424/pexels-photo-16962424/free-photo-of-street-food-menu-on-tray.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "socialMedia1": "https://instagram.com",
-          "socialMedia2": "https://facebook.com",
-          "socialMedia3": "https://wa.me/571234567890/?user",
+          "socialContact": "https://wa.me/571234567890/?user",
+          "socialMedia": "https://instagram.com",
+          "socialDelivery": "https://www.rappi.com.co/",
           "keyWords": "burger, meat, pork, chicken, nuggets, french fries, onion rings, chips, pizza, steak, hot dog, sausage, fast food",
           "reservations": [
             {
@@ -66,9 +66,9 @@
           "image2": "https://images.pexels.com/photos/20690330/pexels-photo-20690330/free-photo-of-plato-pasta-carne-fotografia-de-comida.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image3": "https://images.pexels.com/photos/8980451/pexels-photo-8980451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image4": "https://images.pexels.com/photos/28177414/pexels-photo-28177414.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "socialMedia1": "https://instagram.com",
-          "socialMedia2": "https://facebook.com",
-          "socialMedia3": "https://wa.me/571234567890/?user",
+          "socialContact": "https://wa.me/571234567890/?user",
+          "socialMedia": "https://instagram.com",
+          "socialDelivery": "https://www.rappi.com.co/",
           "keyWords": "soup, gourmet, low-carbs, low-fat, healthy, frijoles, avocado, traditional, vegan, vegetarian, vegetables, veggie, cazuela, poke, mac n' cheese, pasta, noodles, beans, tofu, rice, miso, fruit, pho",
           "reservations": [
             {
@@ -113,9 +113,9 @@
           "image2": "https://images.pexels.com/photos/20844826/pexels-photo-20844826/free-photo-of-comida-restaurante-pez-pescado.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           "image3": "https://images.pexels.com/photos/16699042/pexels-photo-16699042/free-photo-of-coctel-beber-bebida-vaso.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image4": "https://images.pexels.com/photos/8112966/pexels-photo-8112966.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-          "socialMedia1": "https://instagram.com",
-          "socialMedia2": "https://facebook.com",
-          "socialMedia3": "https://wa.me/571234567890/?user",
+          "socialContact": "https://wa.me/571234567890/?user",
+          "socialMedia": "https://instagram.com",
+          "socialDelivery": "https://www.rappi.com.co/",
           "keyWords": "sushi, spicy, fruit, soda, salmon, pasta, grill, grillhouse, steakhouse, rice, pork, steak, gourmet, alcohol, drinks, coctel, chicken",
           "reservations": [
             {
@@ -169,9 +169,9 @@
           "image2": "https://images.pexels.com/photos/5639280/pexels-photo-5639280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image3": "https://images.pexels.com/photos/6659547/pexels-photo-6659547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image4": "https://images.pexels.com/photos/13669035/pexels-photo-13669035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "socialMedia1": "https://instagram.com",
-          "socialMedia2": "https://facebook.com",
-          "socialMedia3": "https://wa.me/571234567890/?user",
+          "socialContact": "https://wa.me/571234567890/?user",
+          "socialMedia": "https://instagram.com",
+          "socialDelivery": "https://www.rappi.com.co/",
           "keyWords": "soup, gourmet, corn, bread, tortilla, ravioli, ricota, milky, lettuce, tomato, cheese, tea, malta, matcha, coctel, soad, soda, sweet drinks, healthy, coffee, garbanzos, pho, coconut, traditional, vegetables, zen, nature, curry, salad, gazpacho, beans, tofu, rice, miso, fruit, satay",
           "reservations": [
             {
@@ -216,9 +216,9 @@
           "image2": "https://images.pexels.com/photos/11137109/pexels-photo-11137109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image3": "https://images.pexels.com/photos/25949510/pexels-photo-25949510/free-photo-of-comida-ciudad-calle-tarde.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
           "image4": "https://images.pexels.com/photos/2960569/pexels-photo-2960569.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-          "socialMedia1": "https://instagram.com",
-          "socialMedia2": "https://facebook.com",
-          "socialMedia3": "https://wa.me/571234567890/?user",
+          "socialContact": "https://wa.me/571234567890/?user",
+          "socialMedia": "https://instagram.com",
+          "socialDelivery": "https://www.rappi.com.co/",
           "keyWords": "sea food, tasty, fries, onion rings, chips, brochettes, skewers, fish, rice, fried chicken, fish sticks",
           "reservations": [
             {
