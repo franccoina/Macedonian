@@ -1,6 +1,6 @@
 <div align="center">
   <img style="filter: brightness(0.8)" src="./macedonia.webp" alt="Macedonia-Logotype" width="100%" /><br><br>
-  <i>Dev Repository *</i>
+  <i>Dev Database Repository *</i>
 </div>
 
 <br><br>
