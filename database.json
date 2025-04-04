@@ -9,7 +9,7 @@
       "restaurants": [
         {
           "id": "1706764800022",
-          "name": "La Pradera",
+          "name": "Pradera",
           "description": "En nuestro innovador restaurante de comidas rápidas, los mejores chefs diseñan menús degustación únicos, elevando la calidad de ingredientes y técnicas. Cada visita es un viaje culinario emocionante y sabroso. Reserva y adéntrate en los secretos de nuestra variada oferta.",
           "vid": "https://videos.pexels.com/video-files/5794182/5794182-uhd_2560_1440_25fps.mp4",
           "city": "Envigado, CO",
@@ -25,7 +25,7 @@
           "keyWords": "burger, meat, pork, chicken, nuggets, french fries, onion rings, chips, pizza, steak, hot dog, sausage, fast food",
           "reservations": [
             {
-              "restaurant": "La Pradera",
+              "restaurant": "Pradera",
               "cliente": "Sebastian Ortiz",
               "email": "sebasort@gmail.com",
               "fecha": "2024-12-03",
@@ -33,7 +33,7 @@
               "hora": "2:00:00 UTC"
             },
             {
-              "restaurant": "La Pradera",
+              "restaurant": "Pradera",
               "cliente": "Mariana Martinez",
               "email": "marianamart@gmail.com",
               "fecha": "2024-10-05",
@@ -207,7 +207,7 @@
         {
           "id": "1712083200000",
           "name": "Ches's",
-          "description": "Deléitate en nuestro restaurante con el más auténtico sabor costero, donde nuestros chefs galardonados preparan menús degustación únicos, combinando pescados frescos y clásicos del mar. Cada visita es un viaje culinario lleno de sabor y tradición. Reserva y descubre los secretos de nuestra cocina portuaria.",
+          "description": "Deléitate en nuestro restaurante con el más auténtico sabor costero, donde nuestros chefs galardonados preparan menús degustación únicos, combinando clásicos de mar y tierra. Contamos con todo tipo de carnes, aunque nuestra especialidad está en la cocina portuaria. Reserva y descubre que cada visita es un viaje culinario empapado de tradición.",
           "vid": "https://videos.pexels.com/video-files/6543351/6543351-uhd_2732_1318_30fps.mp4",
           "city": "Cartagena, CO",
           "address": "Cl. 3 #10 -23",
@@ -219,7 +219,7 @@
           "socialContact": "https://wa.me/571234567890/?user",
           "socialMedia": "https://instagram.com",
           "socialDelivery": "https://www.rappi.com.co/",
-          "keyWords": "sea food, tasty, fries, onion rings, chips, brochettes, skewers, fish, rice, fried chicken, fish sticks",
+          "keyWords": "sea food, tasty, fries, onion rings, chips, brochettes, skewers, fish, rice, fried chicken, fish sticks, barbecue, bbq, meat, beef, steak, pork, roasted",
           "reservations": [
             {
               "restaurant": "Ches's",
